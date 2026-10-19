@@ -1,0 +1,6 @@
+# Direct dependencies, pinned to the versions tested on Python 3.11.
+numpy==2.4.6
+ollama==0.6.3
+pypdf==6.21.1
+requests==2.34.2
+sentence-transformers==6.1.0
